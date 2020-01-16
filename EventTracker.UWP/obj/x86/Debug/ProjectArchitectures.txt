@@ -1,0 +1,1 @@
+D:\EventTracker\EventTracker\EventTracker.UWP\EventTracker.UWP.csproj;x86
